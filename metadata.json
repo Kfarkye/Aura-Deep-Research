@@ -1,0 +1,6 @@
+{
+  "name": "AURA Deep Research Workspace",
+  "description": "SOTA research workflow using orchestrating agents for deep research into any domain, with structured grade-A reports, citations, automated bibliography generation, and agentic workspace routing simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
